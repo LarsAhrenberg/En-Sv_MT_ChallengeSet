@@ -1,0 +1,1187 @@
+Item 1a: Morpho-Syntactic [M-H agreement in NP]
+SRC: There was not [a] single decent [item] on the menue.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: en (rätt, maträtt)
+ERR: -
+
+Item 1b: Morpho-Syntactic [M-H agreement in NP]
+SRC: There was not [a] single decent, nor even edible, [item] on the menue.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: en (rätt, maträtt)
+ERR: -
+
+Item 2a: Morpho-Syntactic [M-H agreement in NP]
+SRC: [A] hostile black dog guarded the house.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: En (hund)
+ERR: -
+
+Item 2b: Morpho-Syntactic [M-H agreement in NP]
+SRC: [A] big barking hostile black dog guarded the house.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: En (hund)
+ERR: -
+
+Item 3a: Morpho-Syntactic [M-H agreement in NP]
+SRC: [A] terrifying black lion crossed the road.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: Ett (lejon)
+ERR: En
+
+Item 3b: Morpho-Syntactic [M-H agreement in NP]
+SRC: [A] big and terrifying, almost black lion crossed the road.
+QUE: Does the translation of the marked determiner agree with its head noun?
+SUG: Ett (lejon)
+ERR: En
+
+Item 4a: Morpho-Syntactic [M-H agreement in NP]
+SRC: [One] of our best friends is from Spain.
+QUE: Does the translation of the marked word have correct gender?
+SUG: En (av våra bästa vänner)
+ERR: Ett
+
+Item 4b: Morpho-Syntactic [M-H agreement in NP]
+SRC: [One] of my father's very best friends is from Spain.
+QUE: Does the translation of the marked word have correct gender?
+SUG: En (av min papaps bästa vänner)
+ERR: Ett
+
+Item 5a: Morpho-Syntactic [M-H agreement in NP]
+SRC: [One] of her best tricks is known all over the world.
+QUE: Does the translation of the marked word have correct gender?
+SUG: Ett (av hennes bästa tricks)
+ERR: -
+
+Item 5b: Morpho-Syntactic [M-H agreement in NP]
+SRC: [One] of my sister's very best tricks is known all over the world.
+QUE: Does the translation of the marked word have correct gender?
+SUG: Ett (av min systers ... tricks)
+ERR: -
+
+Item 6a: Morpho-Syntactic [S-P agreement]
+SRC: Only two of the players seemed to be [ready].
+QUE: Does the translation of the marked adjective agree in number with its subject?
+SUG: färdiga, klara
+ERR: färdig, färdigt, klar, klart
+
+Item 6b: Morpho-Syntactic [S-P agreement]
+SRC: Only two of the players from the other team seemed to be [ready].
+QUE: Does the translation of the marked adjective agree in number with its subject?
+SUG: färdiga, klara
+ERR: färdig, färdigt, klar, klart
+    
+Item 7a: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: The woman was very tall and extremely [strong].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: stark
+ERR: starka, starkt
+
+Item 7b: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: The woman was much too tall but still, to our surpise, extremely [strong].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: stark
+ERR: starka, starkt
+
+Item 8a: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: The sword was very long and extremely [sharp].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: skarpt, vasst
+ERR: skarp, skarpa, vass, vassa
+
+Item 8b: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: The sword was much too long but still, to our surprise, extremely [sharp].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: vasst, skarpt
+ERR: skarp, skarpa, vass, vassa
+
+Item 9a: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: Their politicians were more ignorant than [stupid].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: dumma
+ERR: dum, dumt, dummer, idiot
+
+Item 9b: Morpho-Syntactic [S-P agreement, coordinated targets]
+SRC: The politicians, who visited the sheriff, seemed more ignorant than [stupid].
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: dumma
+ERR: dum, dumt, dummer, idiot
+
+Item 10a: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: My father and my brother will be [happy] tomorrow.
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: glada, lyckliga
+ERR: glad, lycklig
+
+Item 10b: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: My father and my brother will not at all be [happy] tomorrow.
+QUE: Does the translation of the marked adjective agree correctly with its subject?
+SUG: glada, lyckliga
+ERR: glad, lycklig
+
+Item 11a: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: My book and my pencil could be [stolen].
+QUE: Does the translation of the marked word agree correctly with its subject?
+SUG: stulna
+ERR: stulen, stulet
+
+Item 11b: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: My book and my precious golden pencil could have been [stolen].
+QUE: Does the translation of the marked word agree correctly with its subject?
+SUG: stulna
+ERR: stulen, stulet
+
+Item 12a: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: The dog and the cow are [nervous].
+QUE: Does the translation of the marked word agree correctly with its subject?
+SUG: nervösa, oroliga
+ERR: nervös, nervöst
+
+Item 12b: Morpho-Syntactic [S-P agreement, coordinated source]
+SRC: The dog and the cow are much too [nervous].
+QUE: Does the translation of the marked word agree correctly with its subject?
+SUG: nervösa
+ERR: nervös, nervöst
+
+Item 13a: Morpho-Syntactic [Subjunctive mood]
+SRC: I insist that he [be] here.
+QUE: Does the translation include a correct modal form?
+SUG: (att han) ska vara ...
+ERR: -
+
+Item 13b: Morpho-Syntactic [Subjunctive mood]
+SRC: The parents insist that all her teachers [be] here.
+QUE: Does the translation include a correct modal form?
+SUG: (att alla hennes lärare) ska vara ...
+ERR: -
+
+Item 14a: Morpho-Syntactic [Subjunctive mood]
+SRC: She braked in order that the car stay on the road.
+QUE: Does the translation include a correct modal form?
+SUG: (för att bilen) skulle ...
+ERR: -
+
+Item 14b: Morpho-Syntactic [Subjunctive mood]
+SRC: She braked in order that the newly bought vehicle stay on the road.
+QUE: Does the translation include a correct modal form?
+SUG: (för att det nyinköpta fordonet) skulle ...
+ERR: -
+
+Item 15a: Morpho-Syntactic [Subjunctive mood]
+SRC: We requested that families not [be] separated.
+QUE: Does the translation include a correct modal form?
+SUG: (att familjer inte) skulle ...
+ERR: -
+
+Item 15b: Morpho-Syntactic [Subjunctive mood]
+SRC: We requested of the board that the families from the boat not [be] separated.
+QUE: Does the translation include a correct modal form?
+SUG: (att familjerna från båten inte) skulle ...
+ERR: -
+
+Item 16a: Lexico-Syntactic [Double-object verbs]
+SRC: John told [the kids] a nice story.
+QUE: Does the translation mark the recipient argument with a correct preposition?
+SUG: (berättade ...) för barnen
+ERR: 'berättade barnen'
+
+Item 16b: Lexico-Syntactic [Double-object verbs]
+SRC: John told [our kids] a story who no one could believe.
+QUE: Does the translation mark the recipient argument with a correct preposition?
+SUG: (berättade ...) för barnen | för våra barn
+ERR: 'berättade våra barn'
+
+Item 17a: Lexico-Syntactic [Double-object verbs]
+SRC: The captain wrote [him] a letter apologizing for his bad behavior.
+QUE: Does the translation mark the recipient argument with a correct preposition?
+SUG: (skrev ...) till honom
+ERR: 'skrev honom'
+
+Item 17b: Lexico-Syntactic [Double-object verbs]
+SRC: When I woke up I wrote [my ex-wife] a long letter which I never posted.
+QUE: Does the translation mark the recipient argument with a correct preposition?
+SUG: (skrev ...) till min ex-fru
+ERR: 'skrev min ex-fru'
+
+Item 18a: Lexico-Syntactic [Fail to]
+SRC: John [failed to] see the relevance of this point.
+QUE: Is the meaning of ``fail to'' correctly rendered in the translation? 
+SUG: kunde inte inse, insåg inte, fattade inte
+ERR: misslyckades, lyckades inte
+
+Item 18b: Lexico-Syntactic [Fail to]
+SRC: Those who criticize him usually [fail to] see the relevance of this point.
+QUE: Is the meaning of ``fail to'' correctly rendered in the translation? 
+SUG: brukar inte inse, brukar inte kunna se
+ERR: misslyckas, lyckas inte
+
+Item 19a: Lexico-Syntactic [Fail to]
+SRC: He [failed to] respond.
+QUE: Is the meaning of ``fail to'' correctly rendered in the Swedish translation? 
+SUG: svarade inte
+ERR: misslyckades, lyckades inte
+
+Item 19b: Lexico-Syntactic [Fail to]
+SRC: As always, the bastard [failed to] respond.
+QUE: Is the meaning of ``fail to'' correctly rendered in the Swedish translation? 
+SUG: svarade inte
+ERR: misslyckades, lyckades inte
+
+Item 20a: Lexical [put]
+SRC: She [put] her hand on his arm. 
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: la, lade
+ERR: ställde, satte, lägger
+
+Item 20b: Lexical [put]
+SRC: The woman [put] her arm around my shoulder. 
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: la, lade
+ERR: ställde, satte, lägger
+
+Item 21a: Lexical [put]
+SRC: He [put] the box back on the floor.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: ställde, satte
+ERR: lade, ställer, sätter
+
+Item 21b: Lexical [put]
+SRC: He [put] the boxes, which were very heavy, back on the floor.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: ställde, satte ner
+ERR: lade, ställer, sätter
+
+Item 22a: Lexical [put]
+SRC: They told you to [put] the bottle on the table, didn't they?
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: ställa, sätta
+ERR: lägga
+
+Item 22b: Lexical [put]
+SRC: They told you to [put] the wine bottles on the table, didn't they?
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: ställa, sätta
+ERR: lägga
+
+Item 23a: Lexical [put]
+SRC: Marion quickly [put] the last marshmallow in her mouth.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: stoppade
+ERR: ställde, satte, stoppar
+
+Item 23b: Lexical [put]
+SRC: Marion quickly snapped the last marshmallow and [put] it in her mouth.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: stoppade
+ERR: ställde, satte, stoppar
+
+Item 24a: Lexical [put]
+SRC: You can now [put] your plans into action.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: sätta (planer i verket)
+ERR: lägga, ställa
+
+Item 24b: Lexical [put]
+SRC: You can [put] it this way: you will loose whichever move you make.
+QUE: Is the meaning of ``put'' correctly rendered in the Swedish translation? 
+SUG: uttrycka, säga
+ERR: lägga, ställa, sätta, placera, stoppa
+
+Item 25a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Paul [knows] that this is a fact.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: vet
+ERR: känner
+
+Item 25b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Many people don't [know] that this is a fact.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: vet
+ERR: känner
+
+Item 26a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Paul [knows] this story.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: känner till, kan
+ERR: vet
+
+Item 26b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Many people don't [know] this story.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: känner till, kan
+ERR: vet
+
+Item 27a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Paul [knows] this story is hard to believe.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: vet (att ...)
+ERR: känner, kan
+
+Item 27b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: My friend Paul, who [knows] this story is hard to believe, still wants to tell it.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: vet (att ...)
+ERR: känner, kan
+
+Item 28a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Anne [knows] me better than I do myself.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: känner
+ERR: vet
+
+Item 28b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: I think you [know] her husband better than she does herself.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: känner
+ERR: vet
+
+Item 29a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: She didn't [know] her husband had been shot.
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: visste inte att, kände inte till att
+ERR: kunde
+
+Item 29b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Do you [know] her husband's brother has been shot?
+QUE: Is the translation of ``know'' correctly chosen? 
+SUG: vet du att, känner du till att
+ERR: kan
+
+Item 30a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: In this factory people [work] for twelve hours every day.
+QUE: Is the translation of ``work'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, går
+
+Item 30b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: He goes to his office every day but he doesn't always [work].
+QUE: Is the translation of ``work'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, går
+
+Item 31a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: I use this method because it always [works].
+QUE: Is the translation of ``works'' correctly chosen? 
+SUG: fungerar, funkar
+ERR: arbetar, jobbar
+
+Item 31b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Companies may try to set up firewalls, but it does not always [work].
+QUE: Is the translation of ``work'' correctly chosen? 
+SUG: Fungerar, funkar
+ERR: arbetar, jobbar
+
+Item 32a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: There are more than 1200 people [working] for the parade alone.
+QUE: Is the translation of ``working'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, går
+
+Item 32b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: There are 1200 volunteers from abroad [working] for the parade alone.
+QUE: Is the translation of ``working'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, går
+
+Item 33a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: John works so hard.
+QUE: Is the translation of ``works'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, driver
+
+Item 33b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Ms Anscombe, one of our neighbours, works harder than anyone I know.
+QUE: Is the translation of ``worked'' correctly chosen? 
+SUG: arbetar, jobbar
+ERR: fungerar, driver
+
+Item 34a: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: The boss was working us very hard.
+QUE: Is the translation of ``working'' correctly chosen? 
+SUG: drev
+ERR: arbetade, jobbade
+
+Item 34b: Lexico-Syntactic [Sense-distinguishing subcat frames]
+SRC: Stephen Wheeler, the editor, [worked] Kipling hard, but Kipling's need to write was unstoppable.
+QUE: Is the translation of ``worked'' correctly chosen? 
+SUG: drev
+ERR: arbetade, jobbade
+
+Item 35a: Lexical [Sense-distinguishing complement]
+SRC: George is still [running] a mile or two every week.
+QUE: Is the translation of ``running'' correctly chosen? 
+SUG: springer, löper
+ERR: -
+
+Item 35b: Lexical [Sense-distinguishing complement]
+SRC: The Government is still [running] a substantial budget deficit. 
+QUE: Is the translation of ``running'' correctly chosen? 
+SUG: har
+ERR: springer, löper
+
+Item 36a: Lexical [Sense-distinguishing complement]
+SRC: The fraud had been [running] for years.
+QUE: Is the translation of ``running'' correctly chosen? 
+SUG: pågått
+ERR: sprungit, haft
+
+Item 36b: Lexical [Sense-distinguishing complement]
+SRC: News of the company’s deceit - which had [run] for years - wiped tens of billions of euros from its value
+QUE: Is the translation of ``run'' correctly chosen? 
+SUG: pågått
+ERR: sprungit, haft
+
+Item 37a: Lexical [Sense-distinguishing context]
+SRC: People in this area tend to get [very] old.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: mycket, väldigt
+ERR: -
+
+Item 37b: Lexical [Sense-distinguishing context]
+SRC: They might look quite old, but they aren't actually [very] old.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: särskilt, så
+ERR: mycket, väldigt
+
+Item 38a: Lexical [Sense-distinguishing context]
+SRC: Magda is one of our [very] best players.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: allra (bästa spelare).
+ERR: mycket, väldigt
+
+Item 38b: Lexical [Sense-distinguishing context]
+SRC: They live in the [very] heart of the country.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: absoluta, verkliga (hjärta).
+ERR: mycket, allra
+
+Item 39a: Lexical [Sense-distinguishing context]
+SRC: The [very] fact that he didn't accept the nomination should make us suspicious.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: själva, bara (det faktum att)
+ERR: mycket, väldigt, allra
+
+Item 39b: Lexical [Sense-distinguishing context]
+SRC: The accident happened in this [very] room.
+QUE: Is the translation of ``very'' correctly chosen? 
+SUG: precis, just (i det här rummet)
+ERR: absoluta, själva, mycket
+
+Item 40a: Lexico-Syntactic [NP to VP]
+SRC: John believes [Bill to be dishonest].
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att Bill är ...
+ERR: Bill att vara ...
+
+Item 40b: Lexico-Syntactic [NP to VP]
+SRC: We now believe [this person to be] the Jamestown serial killer.
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att den här personen är ...
+ERR: den här personen att vara ...
+
+Item 41a: Lexico-Syntactic [NP to VP]
+SRC: He liked [his father to tell him stories].
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att, när (hans pappa berättade ...)
+ERR: 'pappa att berätta'
+
+Item 41b: Lexico-Syntactic [NP to VP]
+SRC: We certainly would have liked [some things to have gone smoother].
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att vissa saker hade ...
+ERR: vissa saker att ha ...
+
+Item 42a: Lexico-Syntactic [NP to NP]
+SRC: Some employees had supplied [confidential information to outsiders].
+QUE: Is the English 'NP1 to NP2' rendered as 'NP2 med NP1'
+SUG: försett utomstående med ...
+ERR: försett ... till utomstående
+
+Item 42b: Lexico-Syntactic [NP to VP]
+SRC: Fifteen large canals supplied [irrigation water to the farms].
+QUE: Is the English 'NP1 to NP2' rendered as 'NP2 med NP1'
+SUG: försåg gårdarna med ...
+ERR: försåg ... till gårdarna
+
+Item 43a: Lexico-Syntactic [NP to VP]
+SRC: She wanted [her mother to let her go].
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att mamma skulle ...
+ERR: -
+
+Item 43b: Lexico-Syntactic [NP to VP]
+SRC: They just wanted [this entire controversy to go away].
+QUE: Is the English ``NP to VP'' complement correctly rendered as a finite clause?
+SUG: att hela kontroversen skulle ...
+ERR: -
+
+Item 44a: Lexico-Syntactic [Explicitating addition]
+SRC: Mike [wanted] a new job.
+QUE: Does the Swedish translation include an added 'ha'?
+SUG: ville ha (ett nytt jobb)
+ERR: 'ville ett nytt jobb'
+
+Item 44b: Lexico-Syntactic [Explicitating addition]
+SRC: What Mike really [wanted] was a new job.
+QUE: Does the Swedish translation include an added 'ha'?
+SUG: ville ha (var ...)
+ERR: 'ville ett nytt jobb'
+
+Item 45a: Lexico-Syntactic [Explicitating addition]
+SRC: We must educate people on {how to protect themselves} better online.
+QUE: Does the Swedish translation include an added subject 'de'?
+SUG: hur de ska skydda sig, hur de kan skydda sig
+ERR: 'hur skydda sig'
+
+Item 45b: Lexico-Syntactic [Explicitating addition]
+SRC: We must educate parents on {how to protect their kids} better online.
+QUE: Does the Swedish translation include an added subject 'de'?
+SUG: hur de skyddar ..., hur de kan skydda ...
+ERR: 'hur skydda'
+
+Item 46a: Lexico-Syntactic [Explicitating addition]
+SRC: {How to avoid problems} caused by extreme heat.
+QUE: Does the Swedish translation include an added subject 'man', 'en' or 'du'?
+SUG: hur man undviker, hur man kan undvika
+ERR: hur undvika
+
+Item 46b: Lexico-Syntactic [Explicitating addition]
+SRC: {How to say} 'I love you' in Swedish?
+QUE: Does the Swedish translation include an added subject 'man', or 'en'?
+SUG: hur säger man, hur såger en
+ERR: hur att säga, hur säga
+
+Item 47a: Lexico-Syntactic [Explicitating addition]
+SRC: She did not know {what to say}.
+QUE: Does the Swedish translation include an added subject 'hon' and an added modal verb?
+SUG: vad hon skulle säga
+ERR: vad att säga, vad säga
+
+Item 47b: Lexico-Syntactic [Explicitating addition]
+SRC: My little sister did not know {what on earth to say}.
+QUE: Does the Swedish translation include an added subject 'hon' and an added modal verb?	
+SUG: vad ... hon skulle säga
+ERR: vad ... att säga
+
+Item 48a: Morpho-Syntactic [Noun Compounds]
+SRC: The atmosphere was like he had read about gatherings in [nineteen-century novels].
+QUE: Is the translation of the compound correctly translated and written?
+SUG: adertonhundratalsromaner, 1800-talsromaner
+ERR: 'adertonhundrtalet romaner'
+
+Item 48b: Morpho-Syntactic [Noun Compounds]
+SRC: The atmosphere was like he had read about gatherings in [nineteen-century Russian novels].
+QUE: Is the translation of the compound correctly translated and written?
+SUG: ryska adertonhundratalsromaner, ryska 1800-talsromaner
+ERR: 'adertonhundratals ryska romaner'
+
+Item 49a: Morpho-Syntactic [Noun Compounds]
+SRC: Use [the meat knife].
+QUE: Is the compound correctly translated as a single word?
+SUG: köttkniven
+ERR: kött kniven
+
+Item 49b: Morpho-Syntactic [Noun Compounds]
+SRC: Use a sharp [meat knife].
+QUE: Is the compound correctly translated as a single word?
+SUG: köttkniv
+ERR: kött kniv
+
+Item 50a: Morpho-Syntactic [Noun Compounds]
+SRC: [Air toxics] are definitely a problem in Texas.
+QUE: Is the compound correctly translated as a single word or with a correct preposition?
+SUG: luftföroreningar, föroreningar av luften
+ERR: luft föroreningar
+
+Item 50b: Morpho-Syntactic [Noun Compounds]
+SRC: It is definitely obscuring the [air toxics problems] in Texas.
+QUE: Is the compound correctly translated as a single word or with a correct preposition?
+SUG: luftföroreningsproblemen, problemen med luftföroreningar
+ERR: luftföroreningar problem
+
+Item 51a: Morpho-Syntactic [Noun Compounds]
+SRC: Liberalisation of [the capital market] increased capacity to borrow money.
+QUE: Is the compound correctly translated as a single word?
+SUG: kapitalmarknaden
+ERR: kapital marknaden
+
+Item 51b: Morpho-Syntactic [Noun Compounds]
+SRC: Violence erupted in [the capital Kigali].
+QUE: Is the compound correctly translated as two separate words?
+SUG: huvudstaden Kigali
+ERR: -
+
+Item 52a: Morpho-Syntactic [Noun Compounds]
+SRC: On the other side was a counter with [swivel stools].
+QUE: Is the compound correctly translated as a single word?
+SUG: snurrstolar
+ERR: svänga pallar, svängpallar
+
+Item 52b: Morpho-Syntactic [Noun Compounds]
+SRC: On the other side was a long counter with red [swivel stools].
+QUE: Is the compound correctly translated as a single word?
+SUG: snurrstolar
+ERR: svänga pallar, svängpallar, 
+
+Item 53a: Lexical [Common idioms]
+SRC: Stop [beating around the bush].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: gå som katten kring het gröt
+ERR: -
+
+Item 53b: Lexical [Common idioms]
+SRC: Why is she [beating around the bush] like that?
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: går ... som katten kring het gröt
+ERR: -
+
+Item 54a: Lexical [Common idioms]
+SRC: A bird in the hand [is worth two in the bush].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: bättre än tio i skogen
+ERR: 'värt två'
+
+Item 54b: Lexical [Common idioms]
+SRC: A bird in the hand is, after all, [worth two in the bush].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: bättre än tio i skogen
+ERR: 'värt två'
+
+Item 55a: Lexical [Common idioms]
+SRC: This was [the straw that broke the camel's back].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: droppen som fick bägaren att rinna över.
+ERR: 'bröt kamelens rygg'
+
+Item 55b: Lexical [Common idioms]
+SRC: This proved to be [the straw that broke the camel's back].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: droppen som fick bägaren att rinna över
+ERR: 'bröt kamelens rygg'
+
+Item 56a: Lexical [Common idioms]
+SRC: I believe Jessica [has a bone to pick with him].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: har en gås oplockad
+ERR: ben
+
+Item 56b: Lexical [Common idioms]
+SRC: Doesn't Jessica have a bone to pick with that fellow?
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: har en gås oplockad
+ERR: ben
+
+Item 57a: Lexical [Common idioms]
+SRC: I [had my heart in my mouth].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: hjärtat i halsgropen.
+ERR: munnen
+
+Item 57b: Lexical [Common idioms]
+SRC: It was like [having one's heart in one's mouth].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: hjärtat i halsgropen.
+ERR: munnen
+
+Item 58a: Lexical [Common idioms]
+SRC: After reading the letter John was [dancing on air].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: svävade som på moln.
+ERR: dansade, luft
+
+Item 58b: Lexical [Common idioms]
+SRC: After talking to his boss John was almost [dancing on air].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: svävade som på moln.
+ERR: dansade, luft
+
+Item 59a: Lexical [Common idioms]
+SRC: He wouldn't [care a monkey's] for your feelings.
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: bryr sig inte ett dugg
+ERR: apa, apas
+
+Item 59b: Lexical [Common idioms]
+SRC: As far as I understand they don't [care a monkey's] for your feelings.
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: bryr sig inte ett dugg
+ERR: apa, apas
+
+Item 60a: Lexical [Common idioms]
+SRC: Take my advice: [don't push your luck too far].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: utmana inte ödet
+ERR: skjut, lycka, tur
+
+Item 60b: Lexical [Common idioms]
+SRC: I would tell them [not to push their luck too far].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: utmana inte ödet
+ERR: skjuta, lycka, tur
+
+Item 61a: Lexical [Common idioms]
+SRC: You're making [a mountain out of a molehill].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: en höna av en fjäder
+ERR: berg, hög, kulle
+
+Item 61b: Lexical [Common idioms]
+SRC: This time she's made [a great mountain out of a small molehill].
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: stor höna av en liten fjäder
+ERR: berg, hög, kulle
+
+Item 62a: Lexical [Common idioms]
+SRC: You have to give [tit for tat] if you are attacked.
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: svar på tal
+ERR: -
+
+Item 62b: Lexical [Common idioms]
+SRC: Marion really gave him [tit for tat] this time.
+QUE: Is the English idiomatic expression correctly rendered with a suitable Swedish idiomatic expression?
+SUG: svar på tal
+ERR: -
+
+Item 63a: Syntactic [Yes-no question syntax]
+SRC: Do your parents know you're here?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Vet dina föräldrar att ...
+ERR: -
+
+Item 63b: Syntactic [Yes-no question syntax]
+SRC: Do your parents or your brother know you're here?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Vet dina föräldrar ...
+ERR: -
+
+Item 64a: Syntactic [Yes-no question syntax]
+SRC: Didn't he move to Canada after the divorce?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: flyttade inte han, flyttade han inte
+ERR: -
+
+Item 64b: Syntactic [Yes-no question syntax]
+SRC: Did he not move to Canada after the divorce?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: flyttade inte han, flyttade han inte
+ERR: -
+
+Item 65a: Syntactic [Yes-no question syntax]
+SRC: Did they do it well enough?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Gjorde de ...
+ERR: -
+
+Item 65b: Syntactic [Yes-no question syntax]
+SRC: Did the team do it well enough?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Gjorde laget ...
+ERR: -
+
+Item 66a: Syntactic [WH question syntax]
+SRC: Which book did you actually read?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Vilken bok läste du egentligen?
+ERR: -
+
+Item 66b: Syntactic [WH question syntax]
+SRC: Which of these ten books did you actually read?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Vilken av dessa ... läste du ...
+ERR: -
+
+Item 67a: Syntactic [WH question syntax]
+SRC: When did you first realize you were different from everyone else?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: När insåg du ...
+ERR: -
+
+Item 67b: Syntactic [WH question syntax]
+SRC: When did your mother and father finally realize you were different from everyone else?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: När insåg ... din mamma och pappa
+ERR: -
+
+Item 68a: Syntactic [WH question syntax]
+SRC: Why does a happy man ask for a divorce?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Varför ber en lycklig karl ...
+ERR: -
+
+Item 68b: Syntactic [WH question syntax]
+SRC: Why on earth does a man, who is happily married, ask for a divorce?
+QUE: Is the English question correctly rendered as a Swedish question?
+SUG: Varför ... ber en lyckligt gift karl ...
+ERR: -
+
+Item 69a: Syntactic [Negation syntax]
+SRC: I did not realize how much it meant to her.
+QUE: Is the Swedish sentence negated with correct word order?
+SUG: Jag insåg inte ...
+ERR: -
+
+Item 69b: Syntactic [Negation syntax]
+SRC: I actually did not realize how much pain it caused.
+QUE: Is the Swedish sentence negated with correct word order?
+SUG: Jag insåg ... inte ...
+ERR: -
+
+Item 70a: Syntactic [Emphasis syntax]
+SRC: I [did] realize how much it meant to her.
+QUE: Does the Swedish sentence use an appropriate word for the emphatic 'did'?
+SUG: (Jag insåg) faktiskt ...
+ERR: -
+
+Item 70b: Syntactic [Emphatic syntax]
+SRC: Later, I did realize how much pain it caused.
+QUE: Does the Swedish sentence use an appropriate word for the emphatic 'did'?
+SUG: (Senare insåg jag) faktiskt ...
+ERR: -
+
+Item 71a: Syntactic [Tag questions]
+SRC: Mary looked really happy tonight, [didn't she]?
+QUE: Is the English ``tag question'' element correctly rendered in the translation?
+SUG: (...,) inte sant?
+ERR: -
+
+Item 71b: Syntactic [Tag questions]
+SRC: Mary and Tom looked really happy tonight, [didn't they]?
+QUE: Is the English ``tag question'' element correctly rendered in the translation?
+SUG: (...,) inte sant?
+ERR: -
+
+Item 72a: Syntactic [Tag questions]
+SRC: We should not do that again, [should we]?
+QUE: Is the English ``tag question'' element correctly rendered in the translation?
+SUG: (Vi ska) väl (inte ...), eller?
+ERR: -
+
+Item 72b: Syntactic [Tag questions]
+SRC: You would not do that again, darling, [would you]?
+QUE: Is the English ``tag question'' element correctly rendered in the translation?
+SUG: (Du gör) väl inte (om det, älskling), eller (hur)?
+ERR: -
+
+Item 73a: Syntactic [WH-MVT and non-stranded preps]
+SRC: I felt lonely amongst all these men [with whom] I had no point of contact.
+QUE: Is the preposition of the English sentence correctly translated and placed in the Swedish translation?
+SUG: ... (alla dessa män) som (jag saknade kontakt) med
+ERR: -
+
+Item 73b: Syntactic [WH-MVT and non-stranded preps]
+SRC: The sea had known and served all the men [of whom] the nation is proud
+QUE: Is the preposition of the English sentence correctly translated and placed in the Swedish translation?
+SUG: (... alla män) som (nationen är så stolt) över
+ERR: -
+
+Item 74a: Syntactic [Adverb-triggered inversion]
+SRC: Rarely [did the dog] run.
+QUE: Does the Swedish translation have a correct word order?
+SUG: hunden sprang sällan
+ERR: 'sällan hunden sprang'
+
+Item 74b: Syntactic [Adverb-triggered inversion]
+SRC: Only rarely [did the dog] run.
+QUE: Does the Swedish translation have a correct word order?
+SUG: hunden sprang nästan aldrig
+ERR: 'bara sällan hunden sprang'
+
+Item 75a: Syntactic [Fronted ``should'']
+SRC: Should that happen, she would be promoted immediately.
+QUE: Fronted ``should'' introduces a subordinate clause
+SUG: sker detta, om det skulle ske ... blir hon ...
+ERR: 'hon blir', 'hon får'
+
+Item 75b: Syntactic [Fronted ``should'']
+SRC: Should he become president, she would be promoted immediately.
+QUE: Fronted ``should'' introduces a subordinate clause
+SUG: blir han ordförande, om han blir ordförande ... blir hon ...
+ERR: 'hon blir', 'hon får'
+
+Item 76a: Syntactic [conjunct clause]
+SRC: She had a lot of money but he did not have [any].
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: ... men det hade inte han
+ERR: han hade inte några
+
+Item 76b: Syntactic [conjunct clause]
+SRC: She had loads of junk but he did not have [any].
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: ... men det hade inte han
+ERR: han hade inte något
+
+Item 77a: Syntactic [conjunct clause]
+SRC: Mary does not call very often, but [Laura does].
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: men det gör Laura, men Laura gör det
+ERR: -
+
+Item 77b: Syntactic [conjunct clause]
+SRC: Mary calls quite often, but Laura doesn't.
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: men det gör inte Laura, men Laura gör det inte
+ERR: -
+
+Item 78a: Syntactic [conjunct clause]
+SRC: I seldom visit my parents, but my sister does.
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: men min syster gör det, men det gör min syster
+ERR: -
+
+Item 78b: Syntactic [conjunct clause]
+SRC: I visit my parents twice a week, but my sister never does.
+QUE: Is the second conjunct correctly pronominalized with correct word order?
+SUG: men min syster gör det aldrig, men det gör aldrig min syster
+ERR: -
+
+Item 79a: Syntactic [Ordinal placement]
+SRC: The [first four] men were exhausted.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: fyra första
+ERR: första fyra
+
+Item 79b: Syntactic [Ordinal placement]
+SRC: The [first four] to be rescued were totally exhausted.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: fyra första
+ERR: första fyra
+
+Item 80a: Syntactic [Ordinal placement]
+SRC: The [last three] candidates were eliminated.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: tre sista
+ERR: sista tre
+
+Item 81a: Syntactic [Ordinal placement]
+SRC: The [last three] female candidates were eliminated.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: tre sista
+ERR: sista tre
+
+Item 82a: Syntactic [Ordinal placement]
+SRC: The [other two] guys left without paying.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: två andra
+ERR: andra två
+
+Item 82b: Syntactic [Ordinal placement]
+SRC: The [other four or five] guys left without paying.
+QUE: Is the relative order of the ordinals and numerals correct in the Swedish tranlation?
+SUG: fyra fem andra
+ERR: andra fyra
+
+Item 83a: Syntactic [Inalienable possession]
+SRC: He washed [his hands].
+QUE: Is the Swedish translation correct and natural?
+SUG: (tvättade sig om) händerna
+ERR: hans händer
+
+Item 83b: Syntactic [Inalienable possession]
+SRC: The three boys were washing [their hands].
+QUE: Is the Swedish translation correct and natural?
+SUG: (tvättade sig om) händerna
+ERR: deras händer
+
+Item 84a: Syntactic [Inalienable possession]
+SRC: I brushed [my teeth].
+QUE: Is the Swedish translation correct and natural?
+SUG: (Jag borstade) tänderna
+ERR: mina tänder
+
+Item 84b: Syntactic [Inalienable possession]
+SRC: I had just brushed [my teeth] when Laura called.
+QUE: Is the Swedish translation correct and natural?
+SUG: (... borstat) tänderna
+ERR: mina tänder
+
+Item 85a: Syntactic [Inalienable possession]
+SRC: I raised [my hand].
+QUE: Is the Swedish translation correct and natural?
+SUG: (räckte upp) handen
+ERR: min hand
+
+Item 85b: Syntactic [Inalienable possession]
+SRC: The entire class raised [their hand].
+QUE: Is the Swedish translation correct and natural?
+SUG: (räckte upp) handen
+ERR: sin hand, deras hand
+
+Item 86a: Syntactic [Inalienable possession]
+SRC: He turned [his head].
+QUE: Is the Swedish translation correct and natural?
+SUG: (vred på) huvudet
+ERR: sitt huvud, hans huvud
+
+Item 86b: Syntactic [Inalienable possession]
+SRC: The guy, who was sitting next to Susan, turned [his head].
+QUE: Is the Swedish translation correct and natural?
+SUG: (vred på) huvudet
+ERR: sitt huvud, hans huvud
+
+Item 87a: Syntactic [V3-to-V2 word order]
+SRC: After two hours [the elder man rose] and left.
+QUE: Is the Swedish word order correct and natural?
+SUG: reste sig den äldre mannen
+ERR: mannen reste sig
+
+Item 87b: Syntactic [V3-to-V2 word order]
+SRC: After a few minutes [the elder of the two men rose] and left.
+QUE: Is the Swedish word order correct and natural?
+SUG: reste sig den äldre av ... männen
+ERR: mannen reste sig, männen reste sig
+
+Item 88a: Syntactic [V3-to-V2 word order]
+SRC: In my youth [I was] too shy to express my views.
+QUE: Is the Swedish word order correct and natural?
+SUG: var jag (för blyg ...)
+ERR: jag var
+
+Item 88b: Syntactic [V3-to-V2 word order]
+SRC: In her youth [Ms Pennybridge was] much too shy to express her views.
+QUE: Is the Swedish word order correct and natural?
+SUG: var Ms Pennybridge (allt för blyg ...)
+ERR: Ms Pennybridge var
+
+Item 89a: Syntactic [V3-to-V2 word order]
+SRC: They [usually find] the curry too hot.
+QUE: Is the Swedish word order correct and natural?
+SUG: brukar tycka, tycker vanligen
+ERR: vanligen tycker
+
+Item 89b: Syntactic [V3-to-V2 word order]
+SRC: Our guests from abroad [usually find] the curry too hot.
+QUE: Is the Swedish word order correct and natural?
+SUG: brukar tycka, tycker vanligen
+ERR: vanligen tycker
+
+Item 90a: Syntactic [V3-to-V2 word order]
+SRC: When we arrived at the airport [I was feeling] dizzy.
+QUE: Is the Swedish word order correct and natural?
+SUG: (när ... kom fram ...) kände jag mig
+ERR: ( ... ) jag kände
+
+Item 90b: Syntactic [V3-to-V2 word order]
+SRC: When we arrived at the airport [our youngest daughter was feeling] very dizzy.
+QUE: Is the Swedish word order correct and natural?
+SUG: (när ... kom fram ...) kände sig vår yngsta dotter
+ERR: ( ... ) dotter kände sig
+
+Item 91a: Syntactic [Subordinate Wh-questions]
+SRC: Anne wants to know [who] is going to win.
+QUE: Does the Swedish translation of 'who' include the word 'som'?
+SUG: vem som (kommer att vinna)
+ERR: vem kommer vinna
+
+Item 91b: Syntactic [Subordinate Wh-questions]
+SRC: The doctors are discussing which therapy is the best one.
+QUE: Does the Swedish translation of 'which therapy' include the word 'som'?
+SUG: vilken behandling som (är den bästa)
+ERR: behandling är
+
+Item 92a: Syntactic [Major Wh-questions]
+SRC: [Who] is going to win? Anne wanted to know.
+QUE: Is the Swedish translation of 'who' correct?
+SUG: vem
+ERR: -
+
+Item 92b: Syntactic [Major Wh-questions]
+SRC: Which therapy is the best one? The doctors keep discussing.
+QUE: Is the Swedish translation of 'which therapy' correct?
+SUG: vilken behandling
+ERR: -
+
+Item 93a: Morpho-Syntactic [Pronominal co-reference]
+SRC: Williams bought a new house but sold [it] again after a few months.
+QUE: Does the Swedish translation of 'it' have a form appropriate for its referent?
+SUG: (köpte ett nytt hus men sålde) det ...
+ERR: -
+
+Item 93b: Morpho-Syntactic [Pronominal co-reference]
+SRC: Williams bought a house in Wales and then sold [it] again after a few months.
+QUE: Does the Swedish translation of 'it' have a form appropriate for its referent?
+SUG: (köpte ett hus ... och sålde) det ...
+ERR: -
+
+Item 94a: Morpho-Syntactic [Pronominal co-reference]
+SRC: Jemma sold her car as she didn't need [it] in London.
+QUE: Does the Swedish translation of 'it' have a form appropriate for its referent?
+SUG: (... sålde bilen eftersom hon inte behövde) den ...
+ERR: -
+
+Item 94b: Morpho-Syntactic [Pronominal co-reference]
+SRC: Jemma sold her car. She thinks she won't need [it] in London.
+QUE: Does the Swedish translation of 'it' have a form appropriate for its referent?
+SUG: (sålde bilen ... tror inte att hon behöver) den ...
+ERR: -
+
+Item 95a: Morpho-Syntactic [Pronominal co-reference]
+SRC: I tasted a plum but [it] was too bitter.
+QUE: Does the Swedish translation of 'it' have a form appropriate for its referent?
+SUG: (ett plommon men) det var ...
+ERR: -
+
+Item 95b: Morpho-Syntactic [Pronominal co-reference]
+SRC: The first plum I tasted was bitter so I took [another one].
+QUE: Does the Swedish translation of 'another' have a form appropriate for its referent?
+SUG: ( ... plommonet jag åt ... ) ett annat
+ERR: -
+
+Item 96a: Morpho-Syntactic [Partitive]
+SRC: Michael had had [two bottles of wine] and nothing to eat.
+QUE: Is the Swedish translation of the target NP without preposition?
+SUG: två flaskor vin
+ERR: flaskor med vin
+
+Item 97a: Morpho-Syntactic [Partitive]
+SRC: Michael was sitting in the lounge with [a glass of beer] in front of him. 
+QUE: Is the Swedish translation of the target NP without preposition?
+SUG: ett glas öl
+ERR: ett glas med öl
+
+Item 98a: Morpho-Syntactic [Partitive]
+SRC: We had bought [a box of chocolates] for the kids.
+QUE: Is the Swedish translation of the target NP without preposition?
+SUG: ask choklad, chokladask
+ERR: ask med choklad
+
+Item 98b: Morpho-Syntactic [Partitive]
+SRC: The salary is partly based on [the number of orders] you manage to get.
+QUE: Is the Swedish translation of the target NP without preposition?
+SUG: antalet order, antalet beställningar
+ERR: antalet av
+
+Item 99a: Lexico-Syntactic ['what if']
+SRC: John figured he must return. But [what if] he didn't?
+QUE: Is the Swedish translation of the target phrase 'what if' correct?
+SUG: men om, men tänk om
+ERR: vad om
+
+Item 99b: Lexico-Syntactic ['what if']
+SRC: You want an answer? [What if] I tell you the answer is "no"?
+QUE: Is the Swedish translation of the target phrase 'what if' correct?
+SUG: vad gör du om, men om
+ERR: vad om
+
+Item 100a: Lexico-Syntactic ['what about']
+SRC: But [what about] my reputation? I'll be seen as an idiot.
+QUE: Is the Swedish translation of the target phrase 'what about' correct?
+SUG: hur går det med, vad händer med
+ERR: vad om, vad med
+
+Item 100b: Lexico-Syntactic ['what about']
+SRC: Do something that makes a real difference. [What about] supplying cheap drugs to developing nations?
+QUE: Is the Swedish translation of the target phrase 'what about' correct?
+SUG: varför inte
+ERR: vad om, vad med
+
+Item 101a: Syntactic [V3-to-V2 word order]
+SRC: To avoid collapse [Greece may] be forced to sell some of their islands.
+QUE: Is the word order of the Swedish translation correct?
+SUG: kan Grekland, måste Grekland
+ERR: Grekland kan
+
+Item 101b: Syntactic [V3-to-V2 word order]
+SRC: Later, [historical studies at our university] showed this to be completely false.
+QUE: Is the word order of the Swedish translation correct?
+SUG: visade historiska studier ...
+ERR: studier visade
